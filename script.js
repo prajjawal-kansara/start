@@ -47,6 +47,7 @@ const bookmarks = [
         label: "Social",
         bookmarks: [
             { label: "Instagram", url: "https://www.instagram.com/sheesh.roo/" },
+            { label: "Facebook", url: "https://www.facebook.com/login/" },
             { label: "X", url: "https://x.com/home" }
         ]
     },
